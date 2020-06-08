@@ -15,7 +15,6 @@ a, a:hover, a:visited, a:active {
 }
 
 
-}
 
 #paper {
 	width:820px;
@@ -45,14 +44,14 @@ a, a:hover, a:visited, a:active {
 }
 
 h1 {
-	width:500px;
-	font-size:42pt;
+	width:350px;
+	font-size:42px;
 	color:#803a3a;
 	margin-bottom:0;
 }
 
 h1 span {
-	font-size:21pt;
+	font-size:21px;
 	display:block;
 	margin-left:15px;
 	margin-top:20px;
@@ -279,4 +278,9 @@ big {
 
 .works {
 	display:none;
+}
+
+.name
+{
+	width: 400px;
 }

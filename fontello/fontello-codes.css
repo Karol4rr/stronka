@@ -1,0 +1,5 @@
+
+.icon-floppy:before { content: '\e800'; } /* '' */
+.icon-mail:before { content: '\e801'; } /* '' */
+.icon-phone:before { content: '\e802'; } /* '' */
+.icon-print:before { content: '\e803'; } /* '' */
